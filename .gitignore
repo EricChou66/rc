@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!.vimrc
+!.screenrc
+!.zshrc
+!.screenrc_script/
+!.screenrc_script/*
+!.tmux.conf
+!.tmux.conf.local
+!.zimrc
+.Rproj.user
